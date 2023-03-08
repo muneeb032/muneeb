@@ -1,0 +1,28 @@
+    body{
+    background-color:rgb(24, 24, 23);
+    background-image: url(pizza.jpg.jpeg),url(pizza.jpg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 50%;
+    backdrop-filter: blur(2.5px);
+}
+h1.BBB{
+   color: whitesmoke;
+   text-align: center;
+   text-size-adjust: 55px;
+}
+p.describtion{
+    color: whitesmoke;
+    text-align: center;
+    line-height: 1500%;
+}
+button.btn{
+    color: whitesmoke;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 45%;   
+}
+.button:hover{
+    color: rgb(0, 192, 42);
+}
